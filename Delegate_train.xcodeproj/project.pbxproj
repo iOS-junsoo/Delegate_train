@@ -24,6 +24,7 @@
 		99DB5109270038C5004140BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99DB510C270038C5004140BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99DB510E270038C5004140BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99DB511427003905004140BD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		99DB50F4270038C4004140BD = {
 			isa = PBXGroup;
 			children = (
+				99DB511427003905004140BD /* README.md */,
 				99DB50FF270038C4004140BD /* Delegate_train */,
 				99DB50FE270038C4004140BD /* Products */,
 			);
